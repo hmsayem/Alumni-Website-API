@@ -127,4 +127,4 @@ You can call any of the service URL directly from a client browser. It will retu
 ```
 "/api/blog/like/blog_id"
 ```
-`GET` Like / Unlike post.
+`PUT` Like / Unlike post.
