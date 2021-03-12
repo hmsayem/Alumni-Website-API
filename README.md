@@ -1,7 +1,5 @@
 # RESTFUL API for BUP Alumni Website
-### About
-A website for the alumnus of Bangladesh University of Professionals (BUP).
-[Click here](http://bup.pythonanywhere.com/) to view a live version of the website. <br> <br>
+
 [![Python](https://img.shields.io/badge/Python-3.8-critical)]()
 [![Django](https://img.shields.io/badge/Django-3.1-green)]()
 [![Django](https://img.shields.io/badge/DRF-3.12-yellowgreen)]()
