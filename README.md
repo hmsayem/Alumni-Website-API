@@ -6,13 +6,10 @@
 
 ### Features
 
+- Authentication
+- User Profile
+- User Settings
 - Blog
-- Batch and Faculty wise student database
-- Personal profile for each Alumni
-- Job Portal
-- Career counselling sessions
-- Mentoring
-
 
 ### How to set up
 ##### Clone project & Install Requirements
